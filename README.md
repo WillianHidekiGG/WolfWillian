@@ -14,10 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center"> Oi!! Sou <a href="https://www.linkedin.com/in/willian-hideki-gushiken-gondim-7a41b622b/">Willian Hideki🐺</a></h1>
+<h1 align="center"> Oi!! Sou <a href="https://www.linkedin.com/in/willian-hideki-gushiken-gondim-7a41b622b/">Willian Hideki🐺</a>
 <p align="center">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=%20DESENVOLVEDOR-FRONT-END&color=Blue&style=for-the-badge"/>
 </p>
+ </h1>
  <h2 align="center">Sobre meu
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="WlfWillian-git" align="center" heigth="30" width="40"/> :
                   
