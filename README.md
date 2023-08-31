@@ -17,10 +17,12 @@ Here are some ideas to get you started:
 <h1 align="center"> Oi!! Sou <a href="https://www.linkedin.com/in/willian-hideki-gushiken-gondim-7a41b622b/">Willian Hideki🐺</a>
 <p align="center">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=%20DESENVOLVEDOR-FRONT-END&color=Blue&style=for-the-badge"/>
+ <div><a href="https://www.linkedin.com/in/willian-hideki-gushiken-gondim-7a41b622b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" style="margin:5px"></a>
+<a target="_blank"><img src="https://img.shields.io/badge/willianhidekigg@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" style="margin:5px"></a></div>
 </p>
  </h1>
  <h2 style="margin:10px" align="center">Sobre meu
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="WlfWillian-git" align="center" heigth="30" width="40"/> :
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="WolfWillian-git" align="center" heigth="30" width="40"/> :
                   
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WolfWillian&show_icons=true&theme=cobalt)
@@ -50,9 +52,7 @@ Here are some ideas to get you started:
 </h2>
 
 
-<h2 align="center"> Entrar em contato 📱:
-<div><a href="https://www.linkedin.com/in/willian-hideki-gushiken-gondim-7a41b622b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" style="margin:10px"></a>
-<a target="_blank"><img src="https://img.shields.io/badge/willianhidekigg@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" style="margin:10px"></a></div>
+<h2
 
 ![Gamer Room_ Cyberpunk, ExceptRea](https://github.com/WolfWillian/WolfWillian/assets/97626647/123de54e-5b44-4aa6-872e-9d0d2ca148c3)
 </h2>
