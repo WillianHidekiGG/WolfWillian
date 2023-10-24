@@ -1,32 +1,24 @@
-
-<!--
-**WolfWillian/WolfWillian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8b008b&height=120&section=header"/>
 
 <h1 align="center"> Oi!! Sou <a href="https://www.linkedin.com/in/willian-hideki-gushiken-gondim-7a41b622b/">Willian Hideki🐺</a>
+
+
 <p align="center">
-<img src="http://img.shields.io/static/v1?label=STATUS&message=%20DESENVOLVEDOR-FRONT-END&color=Blue&style=for-the-badge"/>
- <div><a href="https://www.linkedin.com/in/willian-hideki-gushiken-gondim-7a41b622b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" style="margin:5px"></a>
-<a target="_blank"><img src="https://img.shields.io/badge/willianhidekigg@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" style="margin:5px"></a></div>
+ <div><a href="https://www.linkedin.com/in/willian-hideki-gushiken-gondim-7a41b622b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=8b008b" target="_blank" style="margin:5px"></a>
+<a target="_blank"><img src="https://img.shields.io/badge/willianhidekigg@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=8b008b" target="_blank" style="margin:5px"></a></div>
 </p>
- </h1>
+</h1>
+<p>
+ 
+<div>
+**Sobre mim:**<p> Sou Formado em Análise Desenvolvimento de Sistemas, com foco em estudos Front-and e no tempo livre crio jogo. Gosto de criar sites dinâmico, criativos que atenda os objetivos esperados e fascinado por apreender sobre assuntos englobando tecnologia.</p>
+</div>
  <h2 style="margin:10px" align="center">Sobre meu
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="WolfWillian-git" align="center" heigth="30" width="40"/> :
                   
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WillianHidekiGG&show_icons=true&theme=cobalt)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WillianHidekiGG&layout=compact)](https://github.com/WillianHidekiGG/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WillianHidekiGG&theme=transparent&bg_color=000&border_color=8b008b&show_icons=true&icon_color=8b008b&title_color=E94D5F&text_color=8b008b&hide_title=true&hide=stars)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=WillianHidekiGG&layout=compact&bg_color=000&border_color=8b008b&title_color=8b008b&text_color=30A3DC)
   
 </h2>
 
@@ -37,6 +29,7 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="WlfWillian-HTML" style="margin:10px" heigth="100" width="100"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="WlfWillian-JS" style="margin:10px" heigth="100" width="100" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"  alt="WlfWillian-PHP" style="margin:10px"  heigth="120" width="120" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" heigth="100" width="100"/>
 
 </div>
 </h2>
@@ -47,6 +40,7 @@ Here are some ideas to get you started:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="WlfWillian-VisualCode" style="margin:10px"  heigth="100" width="100" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" lt="WlfWillian-Photoshop" style="margin:10px" heigth="100" width="100" />
+
           
 </div>
 </h2>
