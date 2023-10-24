@@ -25,8 +25,8 @@ Here are some ideas to get you started:
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="WolfWillian-git" align="center" heigth="30" width="40"/> :
                   
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WolfWillian&show_icons=true&theme=cobalt)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WolfWillian&layout=compact)](https://github.com/WolfWillian/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WillianHidekiGG&show_icons=true&theme=cobalt)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WillianHidekiGG&layout=compact)](https://github.com/WillianHidekiGG/github-readme-stats)
   
 </h2>
 
