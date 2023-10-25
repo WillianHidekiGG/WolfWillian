@@ -1,19 +1,32 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8b008b&height=120&section=header"/>
 
-<h1 align="center"> Oi!! Sou <a href="https://www.linkedin.com/in/willian-hideki-gushiken-gondim-7a41b622b/">Willian Hideki🐺</a>
+<h1 align="center"> Oi!! Sou <a href="https://www.linkedin.com/in/willian-hideki-gushiken-gondim-7a41b622b/"><span style="color:purple">Willian Hideki</span>🐺</a>
+
 
 
 <p align="center">
  <div><a href="https://www.linkedin.com/in/willian-hideki-gushiken-gondim-7a41b622b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=8b008b" target="_blank" style="margin:5px"></a>
-<a target="_blank"><img src="https://img.shields.io/badge/willianhidekigg@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=8b008b" target="_blank" style="margin:5px"></a></div>
+<a target="_blank"><img src="https://img.shields.io/badge/willianhidekigg@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=8b008b" target="_blank" style="margin:5px"></a><br>
+ <img src="http://img.shields.io/static/v1?label=STATUS&message=%20DESENVOLVEDOR-FRONT-END&color=purple&style=for-the-badge"/>
+</div>
 </p>
 </h1>
-<p>
- 
-<div>
-**Sobre mim:**<p> Sou Formado em Análise Desenvolvimento de Sistemas, com foco em estudos Front-and e no tempo livre crio jogo. Gosto de criar sites dinâmico, criativos que atenda os objetivos esperados e fascinado por apreender sobre assuntos englobando tecnologia.</p>
-</div>
- <h2 style="margin:10px" align="center">Sobre meu
+
+
+<p><span><div align="left" style="color:purple"><h2>Sobre mim: 💻🎮</h2></div></span><p align="justify"> <img align="right" alt="Imagem de quarto com computador" width="450px" heigth="450px" src= "https://i.pinimg.com/564x/10/28/94/102894958391c08a1f933ca0ae4bb8d1.jpg">
+Sou do estado de São Paulo, formado em Análise Desenvolvimento de Sistemas, com foco em estudos Front-and e no tempo livre crio jogo. Gosto de criar sites dinâmico, criativos que atenda os objetivos esperados e fascinado por apreender sobre assuntos englobando tecnologia.</p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+---------------------------------------
+
+ <h2 style="margin:10px" align="center"><span style="color:purple">Sobre meu</span>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="WolfWillian-git" align="center" heigth="30" width="40"/> :
                   
 
@@ -23,7 +36,7 @@
 </h2>
 
 
-<h2 align="center">Estudando atualmente📚: <br/>
+<h2 align="center"><span style="color:purple">Estudando atualmente📚:</span> <br/>
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="WlfWillian-CSS" style="margin:10px" heigth="100" width="100" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="WlfWillian-HTML" style="margin:10px" heigth="100" width="100"/> 
@@ -35,7 +48,7 @@
 </h2>
 
 
-<h2 align="center">Ferramentas Proeficiente⚙️:
+<h2 align="center"><span style="color:purple">Ferramentas Proeficiente⚙️:</span>
 <div>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="WlfWillian-VisualCode" style="margin:10px"  heigth="100" width="100" />
@@ -50,4 +63,3 @@
 
 ![Gamer Room_ Cyberpunk, ExceptRea](https://github.com/WolfWillian/WolfWillian/assets/97626647/123de54e-5b44-4aa6-872e-9d0d2ca148c3)
 </h2>
-
