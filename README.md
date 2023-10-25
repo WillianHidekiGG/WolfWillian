@@ -14,7 +14,7 @@
 
 
 <p><span><div align="left" style="color:purple"><h2>Sobre mim: 💻🎮</h2></div></span><p align="justify"> <img align="right" alt="Imagem de quarto com computador" width="450px" heigth="450px" src= "https://i.pinimg.com/564x/10/28/94/102894958391c08a1f933ca0ae4bb8d1.jpg">
-Sou do estado de São Paulo, formado em Análise Desenvolvimento de Sistemas, com foco em estudos Front-and e no tempo livre crio jogo. Gosto de criar sites dinâmico, criativos que atenda os objetivos esperados e fascinado por apreender sobre assuntos englobando tecnologia.</p>
+Sou do estado de São Paulo, formado em Análise Desenvolvimento de Sistemas, com foco em estudos Front-and e no tempo livre crio jogo. Gosto de criar sites dinâmico, criativos que atenda os objetivos e fascinado por aprender sobre assuntos englobando tecnologia.</p>
 <br>
 <br>
 <br>
